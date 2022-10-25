@@ -30,24 +30,6 @@ export default {
   components: {
 
   },
-  // data(){
-  //   return{
-  //
-  //
-  //   }
-  // },
-  methods:{
-    // dateCalc(){
-      // const startDate = new Date();
-      // const endDate = new Date(new Date().setDate(startDate.getDate() + 7));
-      // this.date = [startDate, endDate];
-
-
-    //}
-  },
-  mounted() {
-    //this.dateCalc()
-  }
 }
 </script>
 
